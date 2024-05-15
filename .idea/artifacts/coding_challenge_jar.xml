@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="coding.challenge:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/coding_challenge_jar</output-path>
+    <root id="archive" name="coding.challenge.jar">
+      <element id="module-output" name="coding.challenge" />
+    </root>
+  </artifact>
+</component>
